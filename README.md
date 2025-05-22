@@ -3,15 +3,15 @@
 - Meu nome é Gabriel Oliveira
 - Quero inciar uma carreira como desenvolvedor
 - Atualmente estou aprendendo as tecnologias básicas de front end
-<div style="display:flex; justify:center">
+<div>
   <img alt="HTML, CSS e JS" height="80px" src="https://recantodev.com.br/wp-content/uploads/2024/07/linguagens-html-css-javascript-800x445.png" />
 </div>          
 
 
 
 ### Contatos
-- <img align="center" alt="e-mail" height="25" width="25" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" /> gbzeel@gmail.com
-- <img align="center" alt="whatsapp" height="25" width="25" src="https://t.ctcdn.com.br/qpEUCT2UXKOK2-JrsqjvFvbd1A4=/i618809.png" /> (17) 99262-2361 
+- <img align="center" alt="e-mail" height="25px" width="25" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" /> gbzeel@gmail.com
+- <img align="center" alt="whatsapp" height="25px" width="25" src="https://www.citypng.com/public/uploads/preview/outline-whatsapp-wa-watsup-green-logo-icon-symbol-sign-png-701751695124303npsmzlcjyh.png" /> (17) 99262-2361 
 
 <!---
 gbzeel/gbzeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
