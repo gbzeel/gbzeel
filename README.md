@@ -4,7 +4,7 @@
 - Quero inciar uma carreira como desenvolvedor
 - Atualmente estou aprendendo as tecnologias básicas de front end
 <div>
-  <img alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="Js" height="30" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://recantodev.com.br/wp-content/uploads/2024/07/linguagens-html-css-javascript-800x445.png)" />
 </div>          
 
 
