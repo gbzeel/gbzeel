@@ -2,7 +2,7 @@
 
 - Meu nome é Gabriel Oliveira
 - Quero inciar uma carreira como desenvolvedor
-- Atualmente estou aprendendo JavaScript
+- Atualmente estou aprendendo as tecnologias básicas de front end
 <div>
   <img alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 </div>          
