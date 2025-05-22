@@ -4,7 +4,7 @@
 - Quero inciar uma carreira como desenvolvedor
 - Atualmente estou aprendendo as tecnologias básicas de front end
 <div>
-  <img alt="HTML, CSS e JS" height="80px" src="https://recantodev.com.br/wp-content/uploads/2024/07/linguagens-html-css-javascript-800x445.png" />
+  <img alt="HTML, CSS e JS" src="https://recantodev.com.br/wp-content/uploads/2024/07/linguagens-html-css-javascript-800x445.png" />
 </div>          
 
 
